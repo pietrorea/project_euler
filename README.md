@@ -4,7 +4,7 @@ Project Euler solutions
 Solutions to problems listed on https://projecteuler.net/
 
 ## Typescript Setup
-Install `typescript` and `ts-node` globally run each solution file. 
+Install `typescript` and `ts-node` globally to run each solution file. 
 
 ```
 npm i typescript -S
